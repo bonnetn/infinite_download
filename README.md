@@ -11,3 +11,5 @@
 ```bash
 docker run --rm -p 8080:8080 bonnetn/infinite_download
 ```
+
+The web server will be listening at http://localhost:8080/
